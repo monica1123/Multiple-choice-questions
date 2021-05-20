@@ -120,7 +120,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DXS-nC-VO4">
                                 <rect key="frame" x="7" y="191" width="86" height="79"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" image="截圖 2021-05-20 下午4.48.20"/>
+                                <state key="normal" image="cloud 2"/>
                                 <connections>
                                     <action selector="restart:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tBm-Pi-uqy"/>
                                 </connections>
@@ -173,9 +173,9 @@
         <image name="X" width="163" height="60"/>
         <image name="background" width="320" height="568"/>
         <image name="cloud" width="218" height="72"/>
+        <image name="cloud 2" width="85" height="84"/>
         <image name="flash" width="95" height="129"/>
         <image name="rainbow" width="480" height="270"/>
-        <image name="截圖 2021-05-20 下午4.48.20" width="85" height="84"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
