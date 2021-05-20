@@ -50,7 +50,7 @@ class ViewController: UIViewController {
         rightAnswer = questionsDetail[index].answer
         questionsDetail[index].option.shuffle()
         for i in 0...3 {
-                    allOptionButton[i].setTitle(questionsDetail[index].option[i], for: .normal)
+            allOptionButton[i].setTitle(questionsDetail[index].option[i], for: .normal)
         }
     }
     
